@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sdthost.github.io/sdt.co.in/sitemap.xml
