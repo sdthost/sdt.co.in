@@ -1,62 +1,64 @@
 \# Shubham Diamond Tools – Official Website
 
 
-
 This repository contains the source code for the official website of \*\*Shubham Diamond Tools\*\*.
 
+# Shubham Diamond Tools – Official Website
 
+This repository contains the source code for the official website of **Shubham Diamond Tools**, a Jaipur-based supplier of diamond tools and industrial raw materials for the stone processing industry.
 
-The website is a simple, fast, and professional static HTML website designed to showcase our products and contact details.  
+## Website
 
-It is hosted using \*\*GitHub Pages\*\*, so there are \*\*no hosting costs\*\*.
+https://sdt.co.in
 
+## About Shubham Diamond Tools
 
+Shubham Diamond Tools is based in Jaipur, Rajasthan and has served the Indian stone processing industry for more than 30 years.
 
----
+We supply manufacturers, fabricators and stone processors across India with high-quality diamond tools and industrial materials.
 
+## Products
 
+* Diamond Circular Saw Blades
+* Diamond Segments
+* Steel Saw Blanks
+* Steel Circles
+* High Density Graphite Blocks
+* Synthetic Industrial Diamond Powder
 
-\## 🌐 Live Website
+## Industries Served
 
+* Granite Processing
+* Marble Processing
+* Sandstone Processing
+* Quartz Processing
+* Engineered Stone Manufacturing
+* Concrete Cutting Applications
 
+## Contact
 
-Once GitHub Pages is enabled, the website is available at:
+Shubham Diamond Tools
 
+6-7, Sukhija Vihar-C
+Ganpatpura 1, Manyawas
+Mansarovar
+Jaipur, Rajasthan 302020
+India
 
+Phone: +91 9521840262
 
-https://YOUR-GITHUB-USERNAME.github.io/shubham-diamond-tools/
+Email: [business@sdt.co.in](mailto:business@sdt.co.in)
 
+Website: https://sdt.co.in
 
+## Technology
 
----
-
-
-
-\## 🏭 About the Company
-
-
-
-\*\*Shubham Diamond Tools\*\* is a manufacturer and supplier of precision components for the stone cutting industry, with over \*\*30 years of experience\*\*.
-
-
-
-\### Products include:
-
-\- Circular stone cutting saw blades
-
-\- Diamond segments for granite and marble
-
-\- Circular steel saw blanks (heat treated \& tensioned)
-
-\- Graphite blocks for moulds and tooling
-
-
-
-We supply customers across India.
-
-
-
----
+* Static HTML
+* CSS
+* GitHub Pages Hosting
+* Google Analytics 4
+* Google Search Console
+* SEO Optimized Product Pages
 
 
 
