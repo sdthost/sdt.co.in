@@ -138,7 +138,7 @@ body{
 
 .hero h2{
     font-size:1.5rem;
-    color:#d97706;
+    color:#92400e;
     margin-bottom:25px;
 }
 
@@ -194,8 +194,8 @@ body{
 }
 
 .secondary{
-    background:#25D366;
-    color:white;
+    background:#128C7E;
+    color:#ffffff;
 }
 
 .secondary:hover{
