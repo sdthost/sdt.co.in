@@ -453,3 +453,17 @@ table tr:nth-child(even),
         font-size:14px;
     }
 }
+/* PRODUCT PAGE HERO IMAGE */
+
+.product-hero-image{
+    margin-top:40px;
+}
+
+.product-hero-image img{
+    width:100%;
+    max-width:1200px;
+    display:block;
+    margin:auto;
+    border-radius:12px;
+    box-shadow:0 8px 25px rgba(0,0,0,0.12);
+}
