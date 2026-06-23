@@ -461,7 +461,8 @@ table tr:nth-child(even),
 
 .product-hero-image img{
     width:100%;
-    max-width:1200px;
+    height:auto;
+    max-width:900px;
     display:block;
     margin:auto;
     border-radius:12px;
